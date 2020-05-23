@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+
+<qresource prefix="/">
+    <file>view/main.qml</file>
+    <file>view/customComponents/Button.qml</file>
+</qresource>
+
+</RCC>
