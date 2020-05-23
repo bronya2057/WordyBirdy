@@ -19,11 +19,11 @@ Window
     }
 
     HardlineCmp.Button{
-        onClicked: console.log(x);
+        onClicked: console.log(y);
     }
 
     function log(x)
     {
-        console.log(x);
+        //console.log(x);
     }
 }
